@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="jzFrame.vcxproj" Id="822211fa-3bcd-4a55-b791-98718f8d9006" />
+</Solution>

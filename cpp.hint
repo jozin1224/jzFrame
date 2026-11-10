@@ -1,0 +1,2 @@
+#define JZFRAME_API __declspec(dllexport)
+#define JZFRAME_API __declspec(dllimport)
